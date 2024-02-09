@@ -64,7 +64,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; WebChain Dev 2023 Inc. All rights reserved
+                &copy; SGUP Deveploment 2024 Inc. Todos Los Derechos Reservados.
             </div>
         </div>
     </div>
